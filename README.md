@@ -2,7 +2,7 @@
 
 This was created as a final assignment for a first year computer science course. The assignment was to draw a "monster" on screen and be able to interact with it, and only required a simple 2D drawing of the "monster", which is really boring. So I exported the default monkey head mesh from Blender and made a crappy 3D engine to draw it in 3D.
 
-The code could be significantly better optimized and all of the physics are completely hardcoded, but it ran well enough to get 100% on the assignment.
+The code could be significantly better optimized and all of the physics are completely hardcoded, but it ran well enough to get 100% on the assignment. Since I finished this course, I will not be actively updating this repo.
 
 ![Screenshot1](https://raw.githubusercontent.com/GREENSHELLRAGE/processing-java-3d-engine/main/screenshots/Screen%20Shot%202022-12-09%20at%2011.51.40%20PM.png)
 
