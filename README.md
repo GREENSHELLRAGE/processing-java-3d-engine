@@ -44,5 +44,5 @@ The monster is a hungry monkey. You can find food at the corners of the map. Whe
 
 
 - There is some code that tries to keep the speed of movement the same regardless of the current frame rate, however it is not perfect and slowdowns can occur if the frame rate is very inconsistent and/or low
-- There is an edge case where the monkey gan get into an infinite loop of feeding itself if it is fed very close to the corner of the map where food spawns, however this loop can be stopped if you pick up food from the other corner of the map
-- Program will crash if the 3d models are in the wrong folder
+- There is an edge case where the monkey can get into an infinite loop of feeding itself if it is fed very close to the corner of the map where food spawns, however this loop can be stopped if you pick up food from the other corner of the map
+- Program will crash if the 3D models are in the wrong folder
